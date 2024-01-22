@@ -4,6 +4,11 @@ public class Main {
         System.out.println(" MuhammadSolih ");
         System.out.println(" MuhammadSolih ");
         System.out.println(" MuhammadSolih ");
+        System.out.println(" MuhammadSolih ");
+        System.out.println(" Kamronbek ");
+        System.out.println(" Kamronbek ");
+        System.out.println(" Kamronbek ");
+        System.out.println(" Kamronbek ");
 
     }
 }
